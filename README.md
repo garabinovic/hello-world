@@ -1,2 +1,3 @@
 # hello-world
 Da vidimo kako ovo funkcionise...
+Pitam se sta sada rade VaJoMa?
